@@ -1,9 +1,8 @@
-<img align="right" alt="Coding" width="450" height="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<img align="center" alt="Coding" width="1500" height="400" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=emil-petkov&label=Profile%20views&color=0e75b6&style=flat" alt="emil-petkov" /> </p>
+<img align="center" alt="Coding" width="1500" height="400" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 <h1 align="center">Hi 👋, I'm Emil Petkov</h1>
 <h3 align="center">Future back-end developer</h3>
-
+<img align="right" alt="Coding" width="450" height="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m learning: **Programming Fundamentals with Python in Software University https://softuni.bg. You can see the tasks I have solved in my profile. I know they are not very difficult, but these are my tasks.**
 
