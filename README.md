@@ -1,3 +1,5 @@
+<img align="center" alt="Coding" width="1500" height="300" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+
 <h1 align="center">Hi 👋, I'm Emil Petkov</h1>
 <h3 align="center">Future back-end developer.</h3>
 
