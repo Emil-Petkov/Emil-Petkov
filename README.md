@@ -51,8 +51,9 @@
 
 
 
-<img align="right" alt="github_logo_gif" width="250" src="https://media.giphy.com/media/n5eITDJmNjAHviMxjS/giphy.gif">
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emil-petkov&show_icons=true&locale=en&layout=compact" alt="emil-petkov" /></p>
+<img align="right" alt="github_logo_gif" width="250" src="https://media.giphy.com/media/n5eITDJmNjAHviMxjS/giphy.gif">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emil-petkov&show_icons=true&locale=en" alt="emil-petkov" /></p>
 
 
