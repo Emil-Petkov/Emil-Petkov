@@ -1,6 +1,5 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=emil-petkov&label=Profile%20views&color=0e75b6&style=flat" alt="emil-petkov" /> </p>
 <img align="center" alt="Coding" width="1500" height="400" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=emil-petkov&label=Profile%20views&color=0e75b6&style=flat" alt="emil-petkov" /> </p>
 <h1 align="center">Hi 👋, I'm Emil Petkov</h1>
 <h3 align="center">Future back-end developer</h3>
 
@@ -53,6 +52,11 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emil-petkov&show_icons=true&locale=en&layout=compact" alt="emil-petkov" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
 <img align="right" alt="github_logo_gif" width="250" src="https://media.giphy.com/media/n5eITDJmNjAHviMxjS/giphy.gif">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emil-petkov&show_icons=true&locale=en" alt="emil-petkov" /></p>
 
