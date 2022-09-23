@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I'm funny**
 
-<img align="right" alt="Coding" width="400" height="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
