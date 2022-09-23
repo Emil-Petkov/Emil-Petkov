@@ -5,14 +5,12 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=emil-petkov&label=Profile%20views&color=0e75b6&style=flat" alt="emil-petkov" /> </p>
 
-
+<img align="right" alt="Coding" width="350" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 I’m learning: **Programming Fundamentals with Python in Software University https://softuni.bg You can see the tasks I have solved in my profile. I know they are not very difficult, but these are my tasks.**
 
 - 📫 How to reach me **emil.ivanchev.petkov@gmail.com**
 
 - ⚡ Fun fact **I'm funny**
-
-<img align="right" alt="Coding" width="350" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
