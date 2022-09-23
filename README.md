@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Emil Petkov</h1>
 <h3 align="center">Future back-end developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emil-petkov&label=Profile%20views&color=0e75b6&style=flat" alt="emil-petkov" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=emil-petkov&label=Profile%20views&color=0e75b6&style=flat" alt="emil-petkov" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emil-petkov" alt="emil-petkov" /></a> </p>
 
-- 🌱 I’m currently learning **Programming Fundamentals with Python in https://softuni.bg**
+- 🌱 I’m learning: **Programming Fundamentals with Python in Software University https://softuni.bg You can see the tasks I have solved in my profile. I know they are not very difficult, but these are my tasks.**
 
 - 📫 How to reach me **emil.ivanchev.petkov@gmail.com**
 
@@ -27,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emil-petkov&show_icons=true&locale=en" alt="emil-petkov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emil-petkov&" alt="emil-petkov" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emil-petkov" alt="emil-petkov" /></a> </p>
