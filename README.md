@@ -12,7 +12,9 @@
 - 📫 How to reach me **emil.ivanchev.petkov@gmail.com**
 
 - ⚡ Fun fact **I'm funny :sweat_smile:**
-<img src="https://i.ibb.co/y0xbBfr/octocat-1664025391449.png" alt="octocat-1664025391449" border="0" height="400" width="400">
+
+<img src="https://i.ibb.co/y0xbBfr/octocat-1664025391449.png" alt="octocat-1664025391449" border="0" height="200" width="200">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
