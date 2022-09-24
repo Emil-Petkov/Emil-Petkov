@@ -53,8 +53,6 @@
 <p><img align="right" alt="github_logo_gif" width="250" src="https://media.giphy.com/media/n5eITDJmNjAHviMxjS/giphy.gif">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emil-petkov&show_icons=true&locale=en" alt="emil-petkov" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emil-petkov&" alt="emil-petkov" /></p>
-<br>
-<br>
-<br>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emil-petkov" alt="emil-petkov" width="700"/></a> </p>
