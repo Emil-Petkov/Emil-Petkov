@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **emil.ivanchev.petkov@gmail.com**
 
-- ⚡ Fun fact **I'm funny**
+- ⚡ Fun fact **I'm funny :sweat_smile:**
 
 <br>
 <br>
