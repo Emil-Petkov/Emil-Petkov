@@ -47,7 +47,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emil-petkov&show_icons=true&locale=en&layout=compact" alt="emil-petkov" width="440" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emil-petkov&show_icons=true&locale=en&layout=compact" alt="emil-petkov" width="460" /></p>
 <br>
 <br>
 <br>
