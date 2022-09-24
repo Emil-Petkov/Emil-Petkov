@@ -32,7 +32,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
@@ -48,14 +47,15 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emil-petkov&show_icons=true&locale=en&layout=compact" alt="emil-petkov" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emil-petkov&show_icons=true&locale=en&layout=compact" alt="emil-petkov" width="440" /></p>
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emil-petkov&show_icons=true&locale=en" alt="emil-petkov"/> <img align="right" alt="github_logo_gif" width="250" src="https://media.giphy.com/media/n5eITDJmNjAHviMxjS/giphy.gif">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emil-petkov&show_icons=true&locale=en" alt="emil-petkov"/> 
+<img align="right" alt="github_logo_gif" width="250" src="https://media.giphy.com/media/n5eITDJmNjAHviMxjS/giphy.gif">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emil-petkov&" alt="emil-petkov"/>
 <br>
 <br>
