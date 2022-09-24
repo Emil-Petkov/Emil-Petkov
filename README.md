@@ -18,7 +18,6 @@
 <br>
 <br>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -56,7 +55,7 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emil-petkov&show_icons=true&locale=en" alt="emil-petkov"/> 
 <img align="right" alt="github_logo_gif" width="250" src="https://media.giphy.com/media/n5eITDJmNjAHviMxjS/giphy.gif">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emil-petkov&" alt="emil-petkov"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emil-petkov&" alt="emil-petkov"/<img src="https://i.ibb.co/y0xbBfr/octocat-1664025391449.png" alt="octocat-1664025391449" border="0" height="400" width="400">
 <br>
 <br>
 <br>
