@@ -32,10 +32,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-<img src="https://media.giphy.com/media/jPUlsr551rShusGNtI/giphy.gif" alt="html5" width="10 hight="10/> </a>
+<img src="https://media.giphy.com/media/K4KvgoT8T8EbOLMgk0/giphy.gif" alt="html5" width="40"/> </a></p>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
