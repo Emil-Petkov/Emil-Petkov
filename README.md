@@ -7,7 +7,7 @@
 <br>
 <br>
 <br>
-- 🌱 I’m learning: **Programming Fundamentals with Python in Software University https://softuni.bg. You can see the tasks I have solved in my profile. I know they are not very difficult, but these are my tasks.
+- 🌱 I’m learning: Programming Fundamentals with Python in Software University https://softuni.bg. You can see the tasks I have solved in my profile. I know they are not very difficult, but these are my tasks.
 
 - 📫 How to reach me **emil.ivanchev.petkov@gmail.com**
 
