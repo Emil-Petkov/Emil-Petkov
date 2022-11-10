@@ -4,7 +4,7 @@
 <h1 align="center"><i>Hi <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif"
          height="45"
          width="45" />, I'm Emil Petkov</i></h1>
-<h3 align="center">Future back-end developer</h3>
+
 <img align="right" alt="Coding" width="450" height="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <br>
 <br>
