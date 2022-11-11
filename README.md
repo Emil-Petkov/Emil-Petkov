@@ -53,7 +53,7 @@
 <br>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emil-petkov&show_icons=true&locale=en" alt="emil-petkov"/> 
-<img align="right" width="250" src="https://media.giphy.com/media/CsRDHVWNkSOWK5Fcfq/giphy.gif">
+<img align="right" width="150" src="https://media.giphy.com/media/vHRQGhvFHs59olj2oX/giphy.gif">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emil-petkov&" alt="emil-petkov"/>
 <br>
 <br>
