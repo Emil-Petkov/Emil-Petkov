@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1500" height="400" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif">
+<img align="center" alt="Coding" width="1500" height="400" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=emil-petkov&label=Profile%20views&color=0e75b6&style=flat" alt="emil-petkov" /> </p>
 
 <h1 align="center"><i>Hi <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif"
