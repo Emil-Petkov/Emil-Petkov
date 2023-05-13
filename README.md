@@ -10,9 +10,7 @@
 <br>
 - 🌱 I’m learning in Software University https://softuni.bg. You can see the tasks I have solved in my profile. I know they are not very difficult, but these are my tasks.
 
-- 📫 How to reach me **emil.ivanchev.petkov@gmail.com**
-
-- ⚡ Fun fact **I'm funny :sweat_smile:**
+- 📫 How to reach me **E_Petkov@protonmail.com**
 
 <img src="https://i.ibb.co/N3LxHzh/octocat-1682005614634.png" alt="octocat-1664025391449" border="0" height="200" width="200">
 
