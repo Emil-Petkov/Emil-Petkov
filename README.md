@@ -12,7 +12,7 @@
 
 📫 How to reach me **E_Petkov@protonmail.com**
 
-<img src="https://ibb.co/k3k2CJh" alt="octocat-1664025391449" border="0" height="200" width="200">
+<img src="https://ibb.co/k3k2CJh"><img src="https://i.ibb.co/4s9Rr2j/octocat-1700679604381.png" border="0" height="200" width="200">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
