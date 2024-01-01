@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Emil Petkov</h1>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Emil-Petkov&label=Profile%20views&color=0e75b6&style=flat" alt="Emil-Petkov" /> </p>
 
-<img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Emil-Petkov&theme=tokyonight" alt="Emil-Petkov" />
 
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -33,8 +33,7 @@
 <img align="auto" height="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emil-Petkov&langs_count=8&theme=react" alt=Emil-Petkov />
 
 <img align="auto" height="180em" src="https://github-readme-stats.vercel.app/api?username=Emil-Petkov&show_icons=true&locale=en&theme=tokyonight" alt="Emil-Petkov" />
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Emil-Petkov&label=Profile%20views&color=0e75b6&style=flat" alt="Emil-Petkov" /> </p>
+<img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Emil-Petkov&theme=tokyonight" alt="Emil-Petkov" />
 
 
 <h2 align="left">⚡Activity Graph:</h2>
