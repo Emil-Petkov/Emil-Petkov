@@ -30,10 +30,11 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emil-Petkov&theme=city_lights" height="180em" />
 </div>
   
-<img align="auto" height="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emil-Petkov&langs_count=8&theme=react" alt=Emil-Petkov />
 
-<img align="auto" height="180em" src="https://github-readme-stats.vercel.app/api?username=Emil-Petkov&show_icons=true&locale=en&theme=tokyonight" alt="Emil-Petkov" />
-<img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Emil-Petkov&theme=tokyonight" alt="Emil-Petkov" />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Emil-Petkov&show_icons=true&locale=en&theme=tokyonight" alt="Emil-Petkov" /></p>
+
+<p><img align="center" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Emil-Petkov&theme=tokyonight" alt="Emil-Petkov" /></p>
 
 
 <h2 align="left">⚡Activity Graph:</h2>
