@@ -1,12 +1,8 @@
-
+<img src="https://media2.giphy.com/media/znFOMXuHVkV36qzdbJ/giphy.gif?cid=ecf05e47b2z6h36zn9x33eyc64y63p98utnnh556lodnqz7f&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1200" height="300">
 
 <h1 align="center">Hi 👋, I'm Emil Petkov</h1>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Emil-Petkov&label=Profile%20views&color=0e75b6&style=flat" alt="Emil-Petkov" /> </p>
-
-<p align="right">
-  <img src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47mnpeorihkxtu051bodqygtuywpdk5hplng4vwunj&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300" height="300">
-</p>
 
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
