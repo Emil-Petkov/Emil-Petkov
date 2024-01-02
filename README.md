@@ -1,8 +1,12 @@
-![Alt text](https://media.giphy.com/media/hSLDN6zfh2Yy4ekMWi/giphy-downsized-large.gif)
+
+
 <h1 align="center">Hi 👋, I'm Emil Petkov</h1>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Emil-Petkov&label=Profile%20views&color=0e75b6&style=flat" alt="Emil-Petkov" /> </p>
 
+<p align="right">
+  <img src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47mnpeorihkxtu051bodqygtuywpdk5hplng4vwunj&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300" height="300">
+</p>
 
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -17,6 +21,9 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
+
+
+
 
 <h3 align="left">My statistics</h3>
 
