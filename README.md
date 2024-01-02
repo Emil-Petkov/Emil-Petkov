@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+![Alt text](https://media.giphy.com/media/hSLDN6zfh2Yy4ekMWi/giphy-downsized-large.gif)
 <h1 align="center">Hi 👋, I'm Emil Petkov</h1>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Emil-Petkov&label=Profile%20views&color=0e75b6&style=flat" alt="Emil-Petkov" /> </p>
@@ -31,13 +31,10 @@
 </div>
   
 
+<img align="right" height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emil-Petkov&langs_count=8&theme=react" alt=Emil-Petkov />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Emil-Petkov&show_icons=true&locale=en&theme=tokyonight" alt="Emil-Petkov" />
+<p><img align="left" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Emil-Petkov&theme=tokyonight" alt="Emil-Petkov" /></p>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Emil-Petkov&show_icons=true&locale=en&theme=tokyonight" alt="Emil-Petkov" /></p>
-
-<p><img align="center" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Emil-Petkov&theme=tokyonight" alt="Emil-Petkov" /></p>
-
-
-<h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Emil-Petkov&theme=arctic"/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Emil-Petkov&theme=algolia" alt="Emil-Petkov" /></a> </p>
