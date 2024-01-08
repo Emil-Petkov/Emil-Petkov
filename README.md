@@ -38,6 +38,5 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Emil-Petkov&show_icons=true&locale=en&theme=tokyonight" alt="Emil-Petkov" />
 <p><img align="left" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Emil-Petkov&theme=tokyonight" alt="Emil-Petkov" /></p>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Emil-Petkov&theme=arctic"/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Emil-Petkov&theme=algolia" alt="Emil-Petkov" /></a> </p>
