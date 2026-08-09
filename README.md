@@ -4,7 +4,7 @@
 
 ### `DOCUMENTED TECHNICAL WORK`
 
-**DEFENSE IS PREDICTABLE. OFFENSE IS ART.**
+**DEFENSE IS PREDICTABLE. OFFENSE IS ART.**<br><br>
 
 `CONTROLLED` · `DOCUMENTED` · `EVIDENCE FIRST`
 
@@ -61,8 +61,6 @@ Repository count is not a measure of technical value.
 
 <details>
 <summary><strong><code>02 // OPERATING PRINCIPLES</code></strong></summary>
-
-<br>
 
 ### `CONTROLLED BY DESIGN`
 
@@ -185,8 +183,6 @@ For professional opportunities, technical discussion, collaboration, or access t
 <br>
 
 [`e_petkov@protonmail.com`](mailto:e_petkov@protonmail.com)
-
-<br>
 
 </details>
 
