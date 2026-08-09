@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="40" viewBox="0 0 560 40">
+  <rect width="560" height="40" fill="#070b10"/>
+  <rect x="0.5" y="0.5" width="559" height="39" fill="none" stroke="none"/>
+<text x="12" y="28" fill="#ff3b30" font-family="monospace" font-size="22">hexagon</text>
+<text x="134" y="28" fill="#9aa0a6" font-family="monospace" font-size="22">// public interface // github.com/Emil-Petkov</text>
+</svg>
