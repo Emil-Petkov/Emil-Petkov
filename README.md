@@ -1,32 +1,36 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="HEXAGON Red Team">
+<img src="./assets/interface-main.svg" width="100%" alt="HEXAGON Red Team — Public GitHub Node">
 
 <br>
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="25%" align="center">
 <a href="https://github.com/Emil-Petkov?tab=repositories">
-<img src="./assets/panel-repositories.svg" width="100%" alt="Public repositories">
+<img src="./assets/route-repositories.svg" width="100%" alt="/repositories">
 </a>
 </td>
-<td width="50%" align="center">
-<img src="./assets/panel-pinned.svg" width="100%" alt="Pinned work">
+<td width="25%" align="center">
+<a href="https://github.com/Emil-Petkov">
+<img src="./assets/route-pinned.svg" width="100%" alt="/pinned">
+</a>
 </td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<img src="./assets/panel-signal.svg" width="100%" alt="Profile signal">
+<td width="25%" align="center">
+<a href="https://github.com/Emil-Petkov">
+<img src="./assets/route-contributions.svg" width="100%" alt="/contributions">
+</a>
 </td>
-<td width="50%" align="center">
-<img src="./assets/panel-activity.svg" width="100%" alt="Activity trace">
+<td width="25%" align="center">
+<a href="https://github.com/Emil-Petkov">
+<img src="./assets/route-profile.svg" width="100%" alt="/profile">
+</a>
 </td>
 </tr>
 </table>
 
 <br>
 
-<img src="./assets/footer.svg" width="100%" alt="HEXAGON Red Team">
+<img src="./assets/footer-label.svg" width="75%" alt="hexagon // public interface // github.com/Emil-Petkov">
 
 </div>
