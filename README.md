@@ -12,13 +12,13 @@
 </a>
 </td>
 <td width="25%" align="center">
-<a href="https://github.com/Emil-Petkov">
-<img src="./assets/route-pinned.svg" width="100%" alt="/pinned">
+<a href="https://github.com/Emil-Petkov?tab=stars">
+<img src="./assets/route-stars.svg" width="100%" alt="/stars">
 </a>
 </td>
 <td width="25%" align="center">
-<a href="https://github.com/Emil-Petkov">
-<img src="./assets/route-contributions.svg" width="100%" alt="/contributions">
+<a href="https://github.com/Emil-Petkov/Emil-Petkov">
+<img src="./assets/route-readme.svg" width="100%" alt="/readme-source">
 </a>
 </td>
 <td width="25%" align="center">
@@ -28,9 +28,5 @@
 </td>
 </tr>
 </table>
-
-<br>
-
-<img src="./assets/footer-label.svg" width="75%" alt="hexagon // public interface // github.com/Emil-Petkov">
 
 </div>
