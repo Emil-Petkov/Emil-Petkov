@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="70" viewBox="0 0 560 70">
+<rect width="560" height="70" fill="#070b10"/>
+<rect x="1" y="1" width="558" height="68" fill="#0a0f14" stroke="#3b424b" stroke-width="2"/>
+<ellipse cx="40" cy="25" rx="11" ry="5" fill="none" stroke="#9aa2ab" stroke-width="2"/>
+<line x1="29" y1="25" x2="29" y2="45" stroke="#9aa2ab" stroke-width="2"/>
+<line x1="51" y1="25" x2="51" y2="45" stroke="#9aa2ab" stroke-width="2"/>
+<ellipse cx="40" cy="45" rx="11" ry="5" fill="none" stroke="#9aa2ab" stroke-width="2"/>
+<text x="78" y="43" fill="#ff3b30" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22">/repositories</text>
+</svg>
