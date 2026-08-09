@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="78" viewBox="0 0 1200 78">
+<rect width="1200" height="78" rx="8" fill="#0e1116"/>
+<rect x="0.5" y="0.5" width="1199" height="77" rx="7.5" fill="none" stroke="#343a43"/>
+<circle cx="28" cy="39" r="4" fill="#d2303a"/>
+<text x="48" y="44" fill="#f0f2f5" font-family="monospace" font-size="14" font-weight="700">HEXAGON // RED TEAM</text>
+<text x="600" y="44" text-anchor="middle" fill="#8b95a3" font-family="monospace" font-size="12">EVIDENCE FIRST  /  PUBLIC INTERFACE  /  DOCUMENTED</text>
+<text x="1172" y="44" text-anchor="end" fill="#8b95a3" font-family="monospace" font-size="12">2026</text>
+</svg>
