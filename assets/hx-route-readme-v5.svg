@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="70" viewBox="0 0 560 70">
-<rect width="560" height="70" fill="#070b10"/>
-<rect x="1" y="1" width="558" height="68" fill="#0a0f14" stroke="#3b424b" stroke-width="2"/>
-<rect x="30" y="20" width="21" height="28" fill="none" stroke="#9aa2ab" stroke-width="2"/>
-<line x1="35" y1="28" x2="46" y2="28" stroke="#9aa2ab" stroke-width="2"/>
-<line x1="35" y1="34" x2="46" y2="34" stroke="#9aa2ab" stroke-width="2"/>
-<line x1="35" y1="40" x2="44" y2="40" stroke="#9aa2ab" stroke-width="2"/>
-<text x="78" y="43" fill="#ff3b30" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22">/readme-source</text>
-</svg>
